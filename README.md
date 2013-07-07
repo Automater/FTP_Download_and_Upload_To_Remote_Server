@@ -1,6 +1,6 @@
 This script lets you connect via FTP to remote server to download and upload files.
 
-![Alt text](http://173.0.133.251/images/GitHub/downloadandupload.gif "Download and Upload Files")
+![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
 
 1)  Downloading is handled by these 2 files (Use Notepad to edit their source and target drive and folder locations and the filename to download)
