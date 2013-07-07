@@ -1,4 +1,4 @@
-This script lets you connect via FTP to remote server to download and upload files.
+These scripts let you connect via FTP to remote server to download and upload files.
 
 ![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
