@@ -1,4 +1,6 @@
-These scripts let you connect via FTP to remote server to download and upload files.
+Lets you connect to remote server to download and upload file or database via FTP.
+
+![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
 1)  Downloading is handled by these 2 files *
 
@@ -6,7 +8,6 @@ a)  download.bat
 
 b)  download.ftp
 
-![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
 2)  Uploading is handled by these 2 files *
 
