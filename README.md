@@ -1,4 +1,4 @@
-FTP_Download_and_Upload_To_Remote_Servers
+Download and Upload via FTP
 =========================================
 
 This script lets you connect via FTP to remote server to download and upload files.
