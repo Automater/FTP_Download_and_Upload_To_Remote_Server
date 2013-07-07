@@ -1,0 +1,8 @@
+open 173.0.133.251
+user remoteftp
+remotepass
+hash
+lcd C:\ACL_DATA\FTP_Download_and_Upload
+cd upload
+put shopping600-Backup-01-01-2013.mdb
+bye

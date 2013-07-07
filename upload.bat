@@ -1,0 +1,1 @@
+ftp -v -n -s:C:\ACL_DATA\FTP_Download_and_Upload\upload.ftp

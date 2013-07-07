@@ -1,0 +1,7 @@
+open 173.0.133.251
+user remoteftp
+remotepass
+hash
+lcd C:\ACL_DATA\FTP_Download_and_Upload
+get database/shopping600.mdb
+bye

@@ -1,0 +1,10 @@
+@ACL1000
+^LOGFILE  FTP_Download_and_Upload             "" "FTP_Download_and_Upload.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    FTP_Download_Script                RENT_FOLDER_ID] 0
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\FTP_Download_and_Upload\download.bat"' ASYNC
+^BATCH    FTP_Upload_Script                  
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\FTP_Download_and_Upload\upload.bat"' ASYNC
+^OPEN 
