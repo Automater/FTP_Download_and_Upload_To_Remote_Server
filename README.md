@@ -24,7 +24,7 @@ The above includes a "live" connection to a web server with a working website.  
 
 
 Known Issues:
-
+-------------
 1)  I ran the batch (.bat) file for accessing remote web server via FTP and downloaded a database file successfully in the native DOS Command prompt.
 
 2)  At first attempt in each computer, it was not successful because Windows Firewall will prompt if to allow this as a private network.  Then repeat the run (.bat) again and it will work.
@@ -34,5 +34,6 @@ Known Issues:
 4)  Finally, I disabled the Windows Firewall altogether and then IT'LL WORK in ACL v10.
 
 
-
-Email me if you found some solution to the above or have any questions: patrickong@gmail.com
+Questions?
+----------
+Email me: patrickong@gmail.com
