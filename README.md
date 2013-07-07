@@ -6,6 +6,7 @@ a)  download.bat
 
 b)  download.ftp
 
+![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
 2)  Uploading is handled by these 2 files *
 
@@ -15,7 +16,7 @@ b)  upload.ftp
 
 * Use Notepad to edit their source and target drive and folder locations and the filename to download or upload.
 
-![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
+
 
 #### Note: ####
 
@@ -34,7 +35,7 @@ b)  upload.ftp
 
 #### Known Issues: ####
 
-1)  I ran the batch (.bat) file for accessing remote web server via FTP.  At first attempt, it was not successful because Windows Firewall will block and prompt to allow this communication as a private network.
+1)  I ran the batch (.bat) file for accessing remote web server via FTP.  At first attempt, it was not successful because Windows Firewall will block and prompt if you were to allow it.
 
 ![Alt text](http://173.0.133.251/images/GitHub/Firewall_Blocked_Allow_Access.gif "Firewall Prompt for Permission")
 
