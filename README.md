@@ -1,7 +1,6 @@
-Download and Upload via FTP
-=========================================
-
 This script lets you connect via FTP to remote server to download and upload files.
+
+![Alt text](http://173.0.133.251/download/downloadandupload.gif "Download and Upload Files")
 
 
 1)  Downloading is handled by these 2 files (Use Notepad to edit their source and target drive and folder locations and the filename to download)
@@ -20,7 +19,17 @@ b)  upload.ftp
 
 Note:
 -----
-The above includes a "live" connection to a web server with a working website.  You may freely use it to test and customise the script for downloading or uploading purposes but please handle it with care by not uploading large files or sensitive / illegal materials.
+
+1)  The above includes a "live" connection to a web server with a working website.  You may freely use it to test and customise the script for downloading or uploading purposes but please handle it with care by not uploading large files or sensitive / illegal materials.
+
+![Alt text](http://173.0.133.251/download/ASCII-Binary.gif "ASCII and Binary files")
+
+> 2)  Rule of Thumb - 
+
+> a)  Use ASCII only for transferring HTML Documents (The scripts are using ASCII by default).
+
+> b)  Everything else - goes Binary (or raw data or all files depending on your program) (Add the word __bin__ in a new line after the server login lines)
+
 
 
 Known Issues:
