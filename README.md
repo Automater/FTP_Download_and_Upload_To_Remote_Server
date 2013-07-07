@@ -1,8 +1,5 @@
 These scripts let you connect via FTP to remote server to download and upload files.
 
-![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
-
-
 1)  Downloading is handled by these 2 files *
 
 a)  download.bat
@@ -18,9 +15,9 @@ b)  upload.ftp
 
 * Use Notepad to edit their source and target drive and folder locations and the filename to download or upload.
 
+![Alt text](http://173.0.133.251/images/GitHub/FTP_Download_and_Upload.gif "Download and Upload Files")
 
-Note:
------
+#### Note: ####
 
 1)  The above includes a "live" connection to a web server with a working website.  You may freely use it to test and customise the script for downloading or uploading purposes but please handle it with care by not uploading large files or sensitive / illegal materials.
 
@@ -34,9 +31,10 @@ Note:
 
 
 
-Known Issues:
--------------
-1)  I ran the batch (.bat) file for accessing remote web server via FTP.  At first attempt, it was not successful because Windows Firewall will prompt if to allow this as a private network.
+
+#### Known Issues: ####
+
+1)  I ran the batch (.bat) file for accessing remote web server via FTP.  At first attempt, it was not successful because Windows Firewall will block and prompt to allow this communication as a private network.
 
 ![Alt text](http://173.0.133.251/images/GitHub/Firewall_Blocked_Allow_Access.gif "Firewall Prompt for Permission")
 
@@ -55,6 +53,6 @@ Known Issues:
 ![Alt text](http://173.0.133.251/images/GitHub/Firewall-Off.gif "Firewall Switched Off")
 
 
-Questions?
-----------
+#### Questions? ####
+
 Email me: patrickong@gmail.com
