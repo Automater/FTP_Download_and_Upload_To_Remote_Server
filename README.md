@@ -55,6 +55,8 @@ b)  upload.ftp
 ![Alt text](http://173.0.133.251/images/GitHub/Firewall-Off.gif "Firewall Switched Off")
 
 
-#### Questions? ####
+#### Methodology ####
+
+![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
 
 Email me: patrickong@gmail.com
